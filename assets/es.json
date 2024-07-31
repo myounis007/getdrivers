@@ -1,0 +1,19 @@
+{
+  "app_name": "Nombre de su aplicación",
+  "account_setting": "Configuración de la cuenta",
+  "notifications": "Notificaciones",
+  "vehicles": "Vehículos",
+  "users": "Usuarios",
+  "carrier_profile": "Perfil del transportista",
+  "registration_details": "Detalles de registro",
+  "payment_details": "Detalles de pago",
+  "payment_reports": "Informes de pago",
+  "documents": "Documentos",
+  "instructions": "Instrucciones",
+  "support": "Soporte",
+  "currency": "Moneda",
+  "distance_unit": "Unidad de distancia",
+  "language": "Idioma",
+  "log_out": "CERRAR SESIÓN",
+  "version": "versión"
+}

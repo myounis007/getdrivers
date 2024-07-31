@@ -1,0 +1,19 @@
+{
+  "app_name": "Your App Name",
+  "account_setting": "Account Setting",
+  "notifications": "Notifications",
+  "vehicles": "Vehicles",
+  "users": "Users",
+  "carrier_profile": "Carrier Profile",
+  "registration_details": "Registration Details",
+  "payment_details": "Payment Details",
+  "payment_reports": "Payment Reports",
+  "documents": "Documents",
+  "instructions": "Instructions",
+  "support": "Support",
+  "currency": "Currency",
+  "distance_unit": "Distance Unit",
+  "language": "Language",
+  "log_out": "LOG OUT",
+  "version": "version"
+}

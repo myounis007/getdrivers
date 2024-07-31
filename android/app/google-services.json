@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880862508290",
+    "project_id": "meqdriver",
+    "storage_bucket": "meqdriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880862508290:android:9818b69296e87fd35a3e1b",
+        "android_client_info": {
+          "package_name": "com.maxcore.meq_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAMaaAwYi8kvfCwxZxXW3tgTycBihcq6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
